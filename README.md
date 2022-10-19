@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Aleco112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Ricardo[https://github.com/Aleco112?tab=repositories] 👋
 
-<!---
-Aleco112/Aleco112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Husband,  Developer, and student!
+- 🔭 I’m currently working on a [frond end page for Miziknet][https://github.com/Aleco112/MizikNet]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I'm a big sport fan , love music, I prefer audiobooks 
